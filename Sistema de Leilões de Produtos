@@ -1,0 +1,15 @@
+Nome do projeto:
+Sistema de Leilões de Produtos
+Explicação sobre o que se trata o projeto:
+Este é um sistema desenvolvido para gerenciar o cadastro de produtos, sua exibição e venda em um ambiente de leilão. O sistema permite que o usuário cadastre novos produtos, visualize a lista de produtos cadastrados, consulte produtos e realize o processo de venda, atualizando o status do produto quando vendido. Ele possui uma interface gráfica simples e intuitiva para interações com o usuário.
+•	Cadastro de Produtos: O usuário pode adicionar produtos ao sistema com nome e valor.
+•	Consulta de Produtos: O sistema permite que o usuário consulte os produtos cadastrados e visualize os detalhes (ID, nome, valor e status).
+•	Vendas de Produtos: Os produtos podem ser vendidos, o que altera o status do produto para "Vendido".
+A interface gráfica (GUI) é construída usando o framework Swing, permitindo uma fácil interação para o gerenciamento de produtos e suas vendas.
+Tecnologias utilizadas:
+•	Java: A linguagem principal utilizada para o desenvolvimento da aplicação.
+•	Swing: Usado para a criação da interface gráfica do usuário.
+•	MySQL (ou outro banco de dados relacional): Para armazenar os dados dos produtos (não mencionado diretamente no código, mas assumido pela necessidade de armazenamento persistente dos dados).
+
+
+
